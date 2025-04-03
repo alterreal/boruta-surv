@@ -27,3 +27,9 @@ env/
 # OS-generated files
 .DS_Store
 Thumbs.db
+
+# package files
+build/
+dist/
+boruta_surv.egg-info/ 
+boruta_surv/__pycache__/
